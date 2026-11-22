@@ -22,4 +22,8 @@ using namespace std;
 #include "Commit.h"
 #include "BranchManager.h"
 #include "StagingArea.h"
+#include "CommitParser.h"
+#include "TreeParser.h"
+#include "RestoreManager.h"
+
 
